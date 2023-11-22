@@ -34,6 +34,20 @@
 
 <hr/>
 <h3>Dataset</h3>
+
+![img](images/twitter_dataset.jpg)
+
+![img](images/quora_dataset.jpg)
+
+<hr>
+
+<h3>Results</h3>
+
+![img](images/twitter_result.jpg)
+
+![img](images/quora_result.jpg)
+
+<!-- 
 <h4>TwitterPPDB Dataset</h4>
 <table>
 <tr><td>Data</td><td>sentence 1, sentence 2</td></tr>
@@ -67,3 +81,6 @@
 <tr><td>F1-Score</td><td>88.01</td></tr>
 <tr><td>Accuracy</td><td>89.18</td></tr>
 </table>
+
+
+ -->
