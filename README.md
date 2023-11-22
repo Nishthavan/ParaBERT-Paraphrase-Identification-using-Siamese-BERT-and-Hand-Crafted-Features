@@ -1,5 +1,7 @@
-<h2>ParaBERT-Paraphrase-Identification-using-Siamese-BERT-and-Hand-Crafted-Features</h2> 
-<hr/>
+<h1>CSCI 544: Applied Natural Language Processing</h1>
+
+<h2>Project: ParaBERT-Paraphrase-Identification-using-Siamese-BERT-and-Hand-Crafted-Features</h2> 
+
 <center> 
   <table>
     <tr>
@@ -27,10 +29,6 @@
       <td>Soham Khade</td>
     </tr>
   </table>
-
-  <h4><u>Group Advisor</u>: <b>Zizhao Hu</b></h4>
   <h4><u>Professor</u>: <b>Mohammad Rostami</b></h4>
 </center>
-<hr/>
-
 
