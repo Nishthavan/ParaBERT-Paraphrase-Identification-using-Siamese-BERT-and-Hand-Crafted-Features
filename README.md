@@ -34,18 +34,21 @@
 
 <hr/>
 <h3>Dataset</h3>
+<!-- 
+![img](images/twitter_dataset.jpg) ![img](images/quora_dataset.jpg) -->
 
-![img](images/twitter_dataset.jpg)
+<img src="images/twitter_dataset.jpg" alt="drawing" width="49%"/>
+<img src="images/quora_dataset.jpg" alt="drawing" width="49%"/>
 
-![img](images/quora_dataset.jpg)
 
 <hr>
 
 <h3>Results</h3>
 
-![img](images/twitter_result.jpg)
+<!-- ![img](images/twitter_result.jpg) ![img](images/quora_result.jpg) -->
 
-![img](images/quora_result.jpg)
+<img src="images/quora_result.jpg" alt="drawing" width="49%"/>
+<img src="images/twitter_result.jpg" alt="drawing" width="49%"/>
 
 <!-- 
 <h4>TwitterPPDB Dataset</h4>
