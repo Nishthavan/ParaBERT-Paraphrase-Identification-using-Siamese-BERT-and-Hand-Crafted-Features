@@ -40,7 +40,6 @@
 <img src="images/twitter_dataset.jpg" alt="drawing" width="45%"/>
 <img src="images/quora_dataset.jpg" alt="drawing" width="45%"/>
 
-
 <hr>
 
 <h3>Results</h3>
@@ -49,6 +48,9 @@
 
 <img src="images/quora_result.jpg" alt="drawing" width="45%"/>
 <img src="images/twitter_result.jpg" alt="drawing" width="45%"/>
+
+<img src="images/quora_result.jpg" alt="Image 1" style="display:inline-block; margin-right:10px;" width = "45%">
+<img src="images/twitter_result.jpg" alt="Image 2" style="display:inline-block;" width = "45%">
 
 <!-- 
 <h4>TwitterPPDB Dataset</h4>
