@@ -37,8 +37,8 @@
 <!-- 
 ![img](images/twitter_dataset.jpg) ![img](images/quora_dataset.jpg) -->
 
-<img src="images/twitter_dataset.jpg" alt="drawing" width="49%"/>
-<img src="images/quora_dataset.jpg" alt="drawing" width="49%"/>
+<img src="images/twitter_dataset.jpg" alt="drawing" width="45%"/>
+<img src="images/quora_dataset.jpg" alt="drawing" width="45%"/>
 
 
 <hr>
@@ -47,8 +47,8 @@
 
 <!-- ![img](images/twitter_result.jpg) ![img](images/quora_result.jpg) -->
 
-<img src="images/quora_result.jpg" alt="drawing" width="49%"/>
-<img src="images/twitter_result.jpg" alt="drawing" width="49%"/>
+<img src="images/quora_result.jpg" alt="drawing" width="45%"/>
+<img src="images/twitter_result.jpg" alt="drawing" width="45%"/>
 
 <!-- 
 <h4>TwitterPPDB Dataset</h4>
