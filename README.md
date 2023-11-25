@@ -35,9 +35,9 @@
 <hr/>
 <h3>Dataset</h3>
 
-![img](images/twitter_dataset.jpg)
+![img](Images/twitter_dataset.jpg)
 
-![img](images/quora_dataset.jpg)
+![img](Images/quora_dataset.jpg)
 
 <hr>
 
