@@ -35,17 +35,17 @@
 <hr/>
 <h3>Dataset</h3>
 
-![img](Images/twitter_dataset.jpg)
+![img](images/twitter_dataset.jpg)
 
-![img](Images/quora_dataset.jpg)
+![img](images/quora_dataset.jpg)
 
 <hr>
 
 <h3>Results</h3>
 
-![img](Images/twitter_result.jpg)
+![img](images/twitter_result.jpg)
 
-![img](Images/quora_result.jpg)
+![img](images/quora_result.jpg)
 
 <!-- 
 <h4>TwitterPPDB Dataset</h4>
