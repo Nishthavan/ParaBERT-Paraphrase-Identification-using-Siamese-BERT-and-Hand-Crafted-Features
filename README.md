@@ -1,37 +1,40 @@
 <h1>CSCI 544: Applied Natural Language Processing</h1>
 
-<h2>Project: ParaBERT-Paraphrase-Identification-using-Siamese-BERT-and-Hand-Crafted-Features</h2> 
+<h2>Project: ParaBERT Paraphrase Identification using Siamese BERT and Hand Crafted Features</h2> 
 
 <center> 
   <table>
-    <tr>
-      <td><b>Group Number</b></td>
-      <td>42</td>
-    </tr>
-    <tr>
-      <td><b>Team Member 1</b></td>
-      <td>Kriti Asija</td>
-    </tr>
-    <tr>
-      <td><b>Team Member 2</b></td>
-      <td>Parth Rohilla</td>
-    </tr>
-    <tr>
-      <td><b>Team Member 3</b></td>
-      <td>Nishthavan Dahiya</td>
-    </tr>
-    <tr>
-      <td><b>Team Member 4</b></td>
-      <td>Darsh Patel</td>
-    </tr>
-    <tr>
-      <td><b>Team Member 5</b></td>
-      <td>Soham Khade</td>
-    </tr>
+  <tr><h3><b>Group Number: 42</b></h3</tr>
+  <tr>
+  <td><b>Team Members</b></td><td>Kriti Asija</td><td>Parth Rohilla</td><td>Nishthavan Dahiya</td> <td>Darsh Patel</td><td>Soham Khade</td>
+  </tr>
   </table>
+
   <h4><u>Professor</u>: <b>Mohammad Rostami</b></h4>
 </center>
-
+<hr/>
+<h3><b>Abstract</b></h3>
+<p>&nbsp &nbsp &nbspParaphrase identification in today’s world
+is increasingly valuable, finding diverse
+applications across various fields, from
+enhancing academic integrity to refin-
+ing legal document analysis and boosting
+content originality in digital publishing.
+While there are many existing models for
+paraphrase detection, they typically focus
+on word-level context, potentially miss-
+ing sentence-level subtleties. This project
+presents ”ParaBERT,” a novel approach
+for paraphrase identification that combines
+the strengths of a Siamese BERT network
+with handcrafted features to get a more
+nuanced understanding of semantics. To
+evaluate the efficacy of ”ParaBERT”, it
+is compared against a baseline of vari-
+ous classical models. The final results
+demonstrate the model’s robust perfor-
+mance, achieving high accuracy and F1-
+scores on the datasets used.</p>
 <hr/>
 <h3>Dataset</h3>
 <!-- 
@@ -40,8 +43,13 @@
 <img src="images/twitter_dataset.jpg" alt="drawing" width="45%"/>
 <img src="images/quora_dataset.jpg" alt="drawing" width="45%"/>
 
-<hr>
+<hr/>
 
+<h3>Proposed Model</h3>
+<center>
+<img src="images/model_3.png" alt="drawing" width="70%"/></center>
+
+<hr/>
 <h3>Results</h3>
 
 <!-- ![img](images/twitter_result.jpg) ![img](images/quora_result.jpg) -->
