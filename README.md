@@ -29,7 +29,7 @@ scores on the datasets used.</p>
 <h3>Dataset</h3>
 <!-- 
 ![img](images/twitter_dataset.jpg) ![img](images/quora_dataset.jpg) -->
-<img src="images/dataset.png" alt="drawing" width="100%"/>
+<img src="images/datasets.png" alt="drawing" width="100%"/>
 
 <hr/>
 
