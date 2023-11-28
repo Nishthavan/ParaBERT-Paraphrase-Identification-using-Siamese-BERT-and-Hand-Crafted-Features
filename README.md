@@ -1,6 +1,6 @@
 <h1>CSCI 544: Applied Natural Language Processing</h1>
 
-<h2>Project: ParaBERT Paraphrase Identification using Siamese BERT and Hand Crafted Features</h2> 
+<h2>ParaBERT: Paraphrase Identification using Siamese BERT and Hand Crafted Features</h2> 
 
 <center> 
   <table>
