@@ -14,34 +14,22 @@
 </center>
 <hr/>
 <h3><b>Abstract</b></h3>
-<p>&nbsp &nbsp &nbspParaphrase identification in today’s world
-is increasingly valuable, finding diverse
-applications across various fields, from
-enhancing academic integrity to refin-
-ing legal document analysis and boosting
-content originality in digital publishing.
-While there are many existing models for
-paraphrase detection, they typically focus
-on word-level context, potentially miss-
-ing sentence-level subtleties. This project
+<p>&nbsp &nbsp &nbspParaphrase identification in today’s world is increasingly valuable, finding diverse applications across various fields, from
+enhancing academic integrity to refining legal document analysis and boosting content originality in digital publishing. While there are many existing models for paraphrase detection, they typically focus
+on word-level context, potentially missing sentence-level subtleties. This project
 presents ”ParaBERT,” a novel approach
 for paraphrase identification that combines
 the strengths of a Siamese BERT network
 with handcrafted features to get a more
 nuanced understanding of semantics. To
 evaluate the efficacy of ”ParaBERT”, it
-is compared against a baseline of vari-
-ous classical models. The final results
-demonstrate the model’s robust perfor-
-mance, achieving high accuracy and F1-
+is compared against a baseline of various classical models. The final results demonstrate the model’s robust performance, achieving high accuracy and F1-
 scores on the datasets used.</p>
 <hr/>
 <h3>Dataset</h3>
 <!-- 
 ![img](images/twitter_dataset.jpg) ![img](images/quora_dataset.jpg) -->
-
-<img src="images/twitter_dataset.jpg" alt="drawing" width="45%"/>
-<img src="images/quora_dataset.jpg" alt="drawing" width="45%"/>
+<img src="images/dataset.png" alt="drawing" width="100%"/>
 
 <hr/>
 
@@ -52,10 +40,7 @@ scores on the datasets used.</p>
 <h3>Results</h3>
 
 <!-- ![img](images/twitter_result.jpg) ![img](images/quora_result.jpg) -->
-
-<img src="images/quora_result.jpg" alt="drawing" width="45%"/>
-<img src="images/twitter_result.jpg" alt="drawing" width="45%"/>
-
+<img src="images/result.png" alt="drawing" width="100%"/>
 <!-- 
 <h4>TwitterPPDB Dataset</h4>
 <table>
@@ -64,7 +49,6 @@ scores on the datasets used.</p>
 <tr><td>Training Set</td><td>42200</td></tr>
 <tr><td>Testing Set</td><td>9324</td></tr>
 </table>
-
 <h4>Quora Question Pairs Dataset</h4>
 <table>
 <tr><td>Data</td><td> Q1 (Id, Title),  Q2 (Id, Title)</td></tr>
@@ -72,7 +56,6 @@ scores on the datasets used.</p>
 <tr><td>Training Set</td><td>323432</td></tr>
 <tr><td>Testing Set</td><td>80858</td></tr>
 </table>
-
 <hr/>
 <h3>Results</h3>
 <h4>Quora Question Pairs Dataset</h4>
@@ -82,7 +65,6 @@ scores on the datasets used.</p>
 <tr><td>F1-Score</td><td>87.91</td></tr>
 <tr><td>Accuracy</td><td>88.56</td></tr>
 </table>
-
 <h4>TwitterPPDB Dataset</h4>
 <table>
 <tr><td>Precision</td><td>87.57</td></tr>
@@ -90,6 +72,4 @@ scores on the datasets used.</p>
 <tr><td>F1-Score</td><td>88.01</td></tr>
 <tr><td>Accuracy</td><td>89.18</td></tr>
 </table>
-
-
  -->
