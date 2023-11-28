@@ -46,8 +46,7 @@ scores on the datasets used.</p>
 <hr/>
 
 <h3>Proposed Model</h3>
-<center>
-<img src="images/model_3.png" alt="drawing" width="70%"/></center>
+<img src="images/model_1.svg" alt="drawing" width="100%"/>
 
 <hr/>
 <h3>Results</h3>
