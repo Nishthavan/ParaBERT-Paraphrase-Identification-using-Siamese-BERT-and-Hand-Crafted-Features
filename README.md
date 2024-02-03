@@ -1,10 +1,9 @@
-<h1>CSCI 544: Applied Natural Language Processing</h1>
+<h1>Applied Natural Language Processing</h1>
 
 <h2>ParaBERT: Paraphrase Identification using Siamese BERT and Hand Crafted Features</h2> 
 
 <center> 
   <table>
-  <tr><h3><b>Group Number: 42</b></h3</tr>
   <tr>
   <td><b>Team Members</b></td><td>Kriti Asija</td><td>Parth Rohilla</td><td>Nishthavan Dahiya</td> <td>Darsh Patel</td><td>Soham Khade</td>
   </tr>
