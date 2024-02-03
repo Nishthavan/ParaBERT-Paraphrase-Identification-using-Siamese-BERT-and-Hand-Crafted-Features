@@ -5,11 +5,9 @@
 <center> 
   <table>
   <tr>
-  <td><b>Team Members</b></td><td>Kriti Asija</td><td>Parth Rohilla</td><td>Nishthavan Dahiya</td> <td>Darsh Patel</td><td>Soham Khade</td>
+  <td><b>Team Members</b></td><td>Kriti Asija</td><td>Parth Rohilla</td><td>Nishthavan Dahiya</td><td>Darsh Patel</td><td>Soham Khade</td>
   </tr>
   </table>
-
-  <h4><u>Professor</u>: <b>Mohammad Rostami</b></h4>
 </center>
 <hr/>
 <h3><b>Abstract</b></h3>
